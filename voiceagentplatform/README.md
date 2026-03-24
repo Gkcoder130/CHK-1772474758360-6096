@@ -1,4 +1,4 @@
-# LiveKit Inbound Voice Agent
+# LiveKit inbound Voice Agent
 
 A self-hosted AI voice agent that answers inbound phone calls via Twilio + LiveKit, converses using OpenAI GPT-4o-mini, and logs every call to Airtable.
 
